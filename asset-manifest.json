@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3f00fa78.css",
-    "main.js": "/static/js/main.ef60f562.js",
+    "main.js": "/static/js/main.fc275c50.js",
     "static/media/mail.png": "/static/media/mail.6bf8ab874fa42a1424b5.png",
     "static/media/cosmonaute.png": "/static/media/cosmonaute.47d3299a2c8f53335ea1.png",
     "static/media/vaisseau.jpg": "/static/media/vaisseau.de113e9441036efeae29.jpg",
@@ -23,10 +23,10 @@
     "static/media/devtool.png": "/static/media/devtool.d8adfb1b140edeb6d44d.png",
     "index.html": "/index.html",
     "main.3f00fa78.css.map": "/static/css/main.3f00fa78.css.map",
-    "main.ef60f562.js.map": "/static/js/main.ef60f562.js.map"
+    "main.fc275c50.js.map": "/static/js/main.fc275c50.js.map"
   },
   "entrypoints": [
     "static/css/main.3f00fa78.css",
-    "static/js/main.ef60f562.js"
+    "static/js/main.fc275c50.js"
   ]
 }
